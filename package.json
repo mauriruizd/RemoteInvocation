@@ -1,0 +1,9 @@
+{ "name": "RemoteInvocation",
+  "description": "Simple RPC-like server in NodeJS and PHP client",
+  "version": "1.0.0",
+  "dependencies": {
+    "desktop-screenshot": "~0.1.1",
+    "jimp": "~0.2.27"
+  },
+  "main": "server.js"
+}
