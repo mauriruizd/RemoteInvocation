@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+#print {
+    width: 100%;
+}
+
+#result {
+    height: 200px;
+    overflow-y: auto;
+    color: white;
+}
+
+#cmd {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: 1 solid #fff;
+}
